@@ -1,0 +1,16 @@
+{
+  "name": "16548",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "typescript": "^4.0.5",
+    "webpack": "^5.75.0"
+  }
+}
